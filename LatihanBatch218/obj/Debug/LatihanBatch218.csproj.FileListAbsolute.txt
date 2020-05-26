@@ -1,0 +1,6 @@
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\bin\Debug\LatihanBatch218.exe.config
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\bin\Debug\LatihanBatch218.exe
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\bin\Debug\LatihanBatch218.pdb
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\obj\Debug\LatihanBatch218.csprojAssemblyReference.cache
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\obj\Debug\LatihanBatch218.exe
+D:\batch 2018\01. consoleApps\LatihanBatch218\LatihanBatch218\obj\Debug\LatihanBatch218.pdb
